@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SatzHello
 //
-//  Created by Marimuthu on 07/21/2023.
-//  Copyright (c) 2023 Marimuthu. All rights reserved.
+//  Created by Satz on 07/21/2023.
+//  Copyright (c) 2023 Satz. All rights reserved.
 //
 
 import UIKit

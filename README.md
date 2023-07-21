@@ -1,6 +1,6 @@
 # SatzHello
 
-[![CI Status](https://img.shields.io/travis/Marimuthu/SatzHello.svg?style=flat)](https://travis-ci.org/Marimuthu/SatzHello)
+[![CI Status](https://img.shields.io/travis/Satz/SatzHello.svg?style=flat)](https://travis-ci.org/Satz/SatzHello)
 [![Version](https://img.shields.io/cocoapods/v/SatzHello.svg?style=flat)](https://cocoapods.org/pods/SatzHello)
 [![License](https://img.shields.io/cocoapods/l/SatzHello.svg?style=flat)](https://cocoapods.org/pods/SatzHello)
 [![Platform](https://img.shields.io/cocoapods/p/SatzHello.svg?style=flat)](https://cocoapods.org/pods/SatzHello)
@@ -22,7 +22,7 @@ pod 'SatzHello'
 
 ## Author
 
-Marimuthu, margovin@in.ibm.com
+Satz, satz4ios@gmail.com
 
 ## License
 
